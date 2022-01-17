@@ -5,6 +5,7 @@ a {
 
 .red {
   background-color: red;
+  color: white;
 }
 
 .orange {
@@ -13,6 +14,7 @@ a {
 
 .purple {
   background-color: purple;
+  color: white;
 }
 
 .green {
@@ -21,4 +23,5 @@ a {
 
 .blue {
   background-color: blue;
+  color: white;
 }
