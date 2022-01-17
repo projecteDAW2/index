@@ -15,6 +15,10 @@ a {
   background-color: orange;
 }
 
+.orange * {
+  color: black;
+}
+
 .purple {
   background-color: purple;
 }
@@ -24,6 +28,10 @@ a {
 
 .green {
   background-color: green;
+}
+
+.green * {
+  color: black;
 }
 
 .blue {
