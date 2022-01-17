@@ -17,6 +17,8 @@ a {
 
 .purple {
   background-color: purple;
+}
+.purple * {
   color: white;
 }
 
@@ -26,5 +28,7 @@ a {
 
 .blue {
   background-color: blue;
+}
+.blue * {
   color: white;
 }
