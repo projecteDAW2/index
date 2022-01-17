@@ -5,6 +5,9 @@ a {
 
 .red {
   background-color: red;
+}
+
+.red * {
   color: white;
 }
 
